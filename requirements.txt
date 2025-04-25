@@ -1,0 +1,11 @@
+# for model 
+ultralytics
+
+YOLO-v8 :- yolov8s (used )
+
+Python 3.12.10
+# for nvidia instant ngp
+ffmeg
+pycolmap (previously colmap)
+opencv-python
+

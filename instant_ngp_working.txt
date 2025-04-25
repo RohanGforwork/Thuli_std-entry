@@ -1,0 +1,6 @@
+instant ngp working
+(if you want to try -  after instant ngp refer this video - "https://youtu.be/VsFHX8IgX1o?si=4Y0tdcpRuUHF7cHe")
+
+
+# this is the code I used for frame calc and running the model
+python "C:\Users\Rohan\Downloads\Instant-NGP-for-RTX-3000-and-4000\Instant-NGP-for-RTX-3000-and-4000\scripts\colmap2nerf.py" --video_in bengali_detected.avi --video_fps 50 --run_colmap --aabb_scale 16
